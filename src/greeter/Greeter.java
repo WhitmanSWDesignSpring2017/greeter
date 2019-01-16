@@ -14,6 +14,8 @@ import java.util.logging.Logger;
 /**
  * From Horstmann's "A Crash Course from C++ to Java",
  * modified to solve exercises 1, 3, 11, 14, 17, and 21.
+ * See also the in-class lab "Hello world!":
+ *   https://canvas.instructure.com/courses/1505731/assignments/10425429
  * @author Janet Davis
  */
 public class Greeter {
